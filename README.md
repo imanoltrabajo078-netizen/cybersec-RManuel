@@ -55,4 +55,4 @@
 
 ## 📬 Contacto
 - **GitHub:** (https://github.com/imanoltrabajo078-netizen/cybersec-RManuel.git)
-- **Ubicación:** Santo Domingo, RD
+- **Ubicación:** Santo Domingo Este, RD
