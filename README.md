@@ -1,6 +1,7 @@
 # cybersec-RManuel
 
-🛡️ Portfolio — [Manuel]
+#🛡️ Portfolio — [Manuel]
+
 Técnico en formación • Ciberseguridad • Grupo 2026 • Santo Domingo, RD
 
 📊 Progreso del curso
