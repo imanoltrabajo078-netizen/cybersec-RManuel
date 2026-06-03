@@ -1,8 +1,5 @@
 # cybersec-RManuel
 
-# 🛡️ Portfolio — [RManuel]
-
-# cybersec-javier
 # 🛡️ Portfolio — Ricardo Manuel Rosario Matos
 **Técnico en formación** • Ciberseguridad • Grupo 2026
 
